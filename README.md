@@ -1,2 +1,1 @@
-# prepcoursehenry
-este es un repositorio de prueba de modelo 2 del prepcourse de henrry
+proyect de como crear un repositorio y clonarlo desde git hub
